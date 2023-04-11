@@ -24,7 +24,7 @@
  
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/shopnow-website.git">https://github.com/abhishekrajput-web/showpnow-website</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/shopnow-e-commerce-website.git">https://github.com/abhishekrajput-web/shopnow-e-commerce-website</a></p>
 
 
 <h2 style="margin-top:20px;font-size:20px">Assests and images sources</h2>
