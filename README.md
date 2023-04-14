@@ -1,6 +1,6 @@
 # E Commerce Website
 <h1 style="font-size:20px">Responsive e-commerce-website using tailwindcss and flowbite</h1>
-<p><a href="https://abhishekrajput-web.github.io/showpnow-website">View The Live Website Deployment </a></p>
+<p><a href="https://abhishekrajput-web.github.io/shopnow-e-commerce-website/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
 
