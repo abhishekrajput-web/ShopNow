@@ -1,5 +1,5 @@
 # E Commerce Application
-<h1 style="font-size:20px">Responsive E-commerce Application Using Tailwind css and Flowbite</h1>
+<h1 style="font-size:20px">Responsive E-commerce Application Using Tailwind Css and Flowbite</h1>
 <p><a href="https://abhishekrajput-web.github.io/shopnow-e-commerce-website/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
