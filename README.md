@@ -1,5 +1,5 @@
-# E Commerce Website
-<h1 style="font-size:20px">Responsive e-commerce-website using tailwindcss and flowbite</h1>
+# E Commerce Application
+<h1 style="font-size:20px">Responsive E-commerce Application Using Tailwind css and Flowbite</h1>
 <p><a href="https://abhishekrajput-web.github.io/shopnow-e-commerce-website/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
@@ -11,6 +11,12 @@
       <a href="https://tailwind.com" target="_blank"> <img style="margin-bottom:12px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--I8Y4H5y3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hw1khdd4inhjri40vkx.jpg" width=80 height=70/> </a> 
             <a  href="https://flowbite.com" target="_blank"> <img style="margin-bottom:10px;margin-right:20px;margin-left:15px" src="https://flowbite.com/images/logo.svg" width=75 height=73/> </a> 
 </div>
+
+<h2 style="margin-top:20px"> Demo Application</h2>
+
+
+https://github.com/user-attachments/assets/b4354744-e330-4437-985d-864ef5b707d5
+
 
 <h2 style="margin-top:20px"> View some separate sections of website</h2>
 <div>
