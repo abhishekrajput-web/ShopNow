@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/b4354744-e330-4437-985d-864ef5b707d5
  
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/shopnow-e-commerce-website.git">https://github.com/abhishekrajput-web/shopnow-e-commerce-website</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/ShopNow.git">https://github.com/abhishekrajput-web/ShopNow</a></p>
 
 
 <h2 style="margin-top:20px;font-size:20px">Assests and images sources</h2>
