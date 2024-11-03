@@ -1,6 +1,6 @@
 # E Commerce Application (Shopnow)
 <h1 style="font-size:20px">Responsive E-commerce Application Using Tailwind Css and Flowbite</h1>
-<p><a href="https://abhishekrajput-web.github.io/shopnow-e-commerce-website/">View The Live Website Deployment </a></p>
+<p><a href="https://shopnow-e-commerce-website.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
 
